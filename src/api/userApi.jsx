@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://link-chat-server.onrender.com';
+const baseUrl = 'https://test-mylv.onrender.com';
 
 export const addUser = async (from, to) => {
   try {
